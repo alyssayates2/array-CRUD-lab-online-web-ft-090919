@@ -23,5 +23,5 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array)
-  array[2]
+  a[2]
 end
